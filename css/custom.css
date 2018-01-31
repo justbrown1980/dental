@@ -1,0 +1,13 @@
+/*! Place your custom styles here */
+
+.logo {
+    width: 100% !important;
+}
+
+.main-navigation {
+    height: 10vh !important;
+}
+
+.bar .logo {
+    width: 10vw !important;
+}
